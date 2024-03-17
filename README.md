@@ -1,4 +1,4 @@
-# clamd4j
+# clamd4j [![Coverage Status](https://coveralls.io/repos/github/cwkr/clamd4j/badge.svg?branch=main)](https://coveralls.io/github/cwkr/clamd4j?branch=main) [![Javadocs](https://www.javadoc.io/badge/de.cwkr/clamd4j.svg?color=blue)](https://www.javadoc.io/doc/de.cwkr/clamd4j)
 
 ClamAV Daemon Client for Java
 
@@ -8,7 +8,7 @@ Add the following dependency to the `<dependencies>` section of your `pom.xml` f
 
 ```xml
 <dependency>
-    <groupId>de.cwkr.clamd4j</groupId>
+    <groupId>de.cwkr</groupId>
     <artifactId>clamd4j</artifactId>
     <version>0.1.0</version>
 </dependency>
